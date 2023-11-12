@@ -42,7 +42,7 @@ Feel free to connect with me on:
 
 <br>
 
-## 🍅 Curious about my hobbies?
+## 🍅 Curious about My Hobbies?
 
 I love Manga, Anime, and Trips!
 - [😽 Github Blog](https://fancy-tomato.github.io/) (Building~)
