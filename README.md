@@ -38,12 +38,13 @@ I'm currently focused on improving my skills in:
 
 Feel free to connect with me on:
 - [💌 Mail](seize365days@gmail.com)
-- [🙌 LinkedIn](https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/) (Building~)
+- [🙌 LinkedIn](https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/) (now Building~)
 
 <br>
 
 ## 🍅 Curious about My Hobbies?
 
 I love Manga, Anime, and Trips!
-- [😽 Github Blog](https://fancy-tomato.github.io/) (Building~)
-- [🍏 Naver Blog](https://blog.naver.com/lililililillillil) (Korean)
+- [😽 Github Blog](https://fancy-tomato.github.io/) (now Building~)
+- [🍏 Naver Blog](https://blog.naver.com/lililililillillil): Korean
+- [🤫 Second Github](https://github.com/Fancy-Tomato): just for Blogging
