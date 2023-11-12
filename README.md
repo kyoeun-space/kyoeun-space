@@ -37,8 +37,8 @@ I'm currently focused on improving my skills in:
 ## 📫 Let's Connect!
 
 Feel free to connect with me on:
-- [💌 Mail](seize365days@gmail.com)
-- [🙌 LinkedIn](https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/) (now Building~)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seize365days@gmail.com)](mailto:seize365days@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/)](https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/) (now Building~)
 
 <br>
 
