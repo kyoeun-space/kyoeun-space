@@ -5,15 +5,15 @@
 ## 💫 Internship Experience
 
 ### [KASI (Korea Astronomy and Space Science Institute)](https://www.kasi.re.kr/eng/index)
-- **Responsibilities:** Test of the GSE development board and Software
+- **Responsibility:** Test of the GSE development board and Software
 - **Duration:** June 2021 - August 2021
 
  ### [KASI (Korea Astronomy and Space Science Institute)](https://www.kasi.re.kr/eng/index)
-- **Responsibilities:** Development of Flight Data Modeling Software
+- **Responsibility:** Development of Flight Data Modeling Software
 - **Duration:** December 2021 - February 2022
 
  ### [SatrecI (Satrec Initiative)](https://www.satreci.com/)
-- **Responsibilities:** Development of Satellite Simulation Program
+- **Responsibility:** Development of Satellite Simulation Program
 - **Duration:** December 2022 - February 2023
 
 <br>
