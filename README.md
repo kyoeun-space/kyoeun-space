@@ -1,5 +1,6 @@
 <h1 align="center">🎉Thanks for finding KyoEun-Space</h1>
 <h3 align="center">I'm studying to become a Spacecraft Control Engineer🌠</h3>
+<h4 align="center">M.S., Department of Astronomy, Yonsei University (2024~)</h4>
 <br>
 
 ## 💫 Internship Experience
@@ -37,14 +38,13 @@ I'm currently focused on improving my skills in:
 ## 📫 Let's Connect!
 
 Feel free to connect with me on:
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seize365days@gmail.com)](mailto:seize365days@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seize365days@gmail.com)](mailto:kkyoeun28@yonsei.ac.kr)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/)](https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/) (now Building~)
 
 <br>
 
-## 🍅 Curious about My Hobbies?
+## 🍅 Curious about My Research?
 
-I love Manga, Anime, and Trips!
-- [😽 Github Blog](https://fancy-tomato.github.io/) (now Building~)
-- [🍏 Naver Blog](https://blog.naver.com/lililililillillil): Korean
-- [🤫 Second Github](https://github.com/Fancy-Tomato): just for Blogging
+I'm recording my study status for my research on my blog:
+- [😽 Github Blog](https://fancy-tomato.github.io/) : (now Building~)
+- [🤫 Second Github](https://github.com/Fancy-Tomato) : just for Blogging
