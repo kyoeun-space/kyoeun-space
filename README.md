@@ -1,6 +1,18 @@
 <h1 align="center">🎉Thanks for finding KyoEun-Space</h1>
 <h3 align="center">I'm studying to become a Spacecraft Control Engineer🌠</h3>
 <h4 align="center">M.S., Department of Astronomy, Yonsei University (2024~)</h4>
+<h4 align="center">
+  B.S., Astronomy and Space Science Department & B.Eng., Department of Aerospace Engineering (Double Major), <br>
+  Chungnam National University (2019 – 2024)
+</h4>
+<br>
+
+## 🛰️ Corporate Project
+
+### Cubesat
+- **Role:** CNDH
+- **Duration:** March 2024 - Feb 2025
+
 <br>
 
 ## 💫 Internship Experience
@@ -30,7 +42,8 @@
 
 I'm currently focused on improving my skills in:
 
-- Deep Learning & Machine Learning
+- Detumbling Method Using a Space Manipulator
+- Space Debris Removal
 - Satellite Attitude Control
 
 <br>
