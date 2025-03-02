@@ -41,6 +41,7 @@ Feel free to connect with me on:
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seize365days@gmail.com)](mailto:kkyoeun28@yonsei.ac.kr)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/)](https://www.linkedin.com/in/kyoeun-kim-0ab2ba29b/) (now Building~)
 
+<!--
 <br>
 
 ## 🍅 Curious about My Research?
@@ -48,3 +49,4 @@ Feel free to connect with me on:
 I'm recording my study status for my research on my blog:
 - [😽 Github Blog](https://fancy-tomato.github.io/) : (now Building~)
 - [🤫 Second Github](https://github.com/Fancy-Tomato) : just for Blogging
+-->
